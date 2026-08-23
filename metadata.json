@@ -1,0 +1,6 @@
+{
+  "name": "Creador de Currículums",
+  "description": "Una aplicación para crear, editar y descargar currículums profesionales en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
